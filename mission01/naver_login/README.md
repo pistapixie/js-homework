@@ -28,7 +28,7 @@ function isValidEmail() {
 }
 ```
 
--
+
 
 3. isValidPassword 함수: 비밀번호 유효성 검사를 위한 함수
 
@@ -64,10 +64,11 @@ function handleLogin(e) {
 ```
 
 6. 동작 gif
+ https://github.com/nessaleee/js-homework/assets/144419094/322e2896-75d3-4a7b-a78c-4f2a941e243d
 
-7. 질문
+8. 질문
 
-- 제공해주신 error.gif에서처럼 포커스가 되었을 때도 에러 메세지가 나타나게 하기 위해 아래와 같이 코드를 작성하였으나
+- 제공해주신 error.gif에서처럼 인풋 요소가 빈 상태로 포커스만 되었을 때도 에러 메세지가 나타나게 하기 위해 아래와 같이 코드를 작성하였으나
   동작하지 않았습니다. 어떤 문제가 있는지 궁금합니다.
 
 ```js
@@ -91,4 +92,4 @@ function isValidEmail() {
 }
 ```
 
--
+
