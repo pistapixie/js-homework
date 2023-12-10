@@ -64,6 +64,7 @@ function handleLogin(e) {
 ```
 
 6. 동작 gif
+   
  https://github.com/nessaleee/js-homework/assets/144419094/322e2896-75d3-4a7b-a78c-4f2a941e243d
 
 8. 질문
